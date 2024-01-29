@@ -14,7 +14,7 @@ This Python script reads data from a NAMD log file (`simul.txt`), extracts relev
    ```
 2. **Run the Script:**
     ```bash
-    python analyze_log.py
+    python NAMDLog.py
     ```
 ## Requirements
 Ensure you have Python installed. You can install the required libraries using:
