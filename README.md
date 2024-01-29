@@ -25,6 +25,8 @@ pip install matplotlib numpy
 ## Results
 After running the script, a plot will be displayed, illustrating the variation of data over timesteps.
 
+## ScreenShots
+- ![image](https://github.com/gitdevutku/NAMD-Log-Analysis/assets/144778146/8a05ff2e-a6c5-4a90-ab98-72d254b1d2da)
 ## Contributors
 - [Utku Berki Baysal](https://github.com/gitdevutku)
 - [Ömür Baysal](https://scholar.google.de/citations?user=z9lRSe4AAAAJ&hl=tr)
