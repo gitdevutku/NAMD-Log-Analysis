@@ -10,7 +10,7 @@ This Python script reads data from a NAMD log file (`simul.txt`), extracts relev
 
    ```bash
    git clone https://github.com/gitdevutku/NAMD-Log-Analysis.git
-   cd your-repository
+   cd NAMD-Log-Analysis
    ```
 2. **Run the Script:**
     ```bash
