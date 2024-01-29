@@ -1,1 +1,2 @@
-# Molecular-Dynamics-Result-Plotting
+# NAMD Log Analysis
+
